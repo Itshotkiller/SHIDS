@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "107666418632",
+    "firebase_url": "https://smarthomesecurity-9330d-default-rtdb.firebaseio.com",
+    "project_id": "smarthomesecurity-9330d",
+    "storage_bucket": "smarthomesecurity-9330d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107666418632:android:596b67cd22ab6037606efd",
+        "android_client_info": {
+          "package_name": "com.example.smarthomesecurity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKUkpH1yqNa2x2YPAaxTPuXF3-C4aL2UM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
